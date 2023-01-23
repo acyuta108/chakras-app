@@ -1,8 +1,17 @@
 {
     "metadata": {
-        "version": "0.1.0"
+        "version": "0.2.1"
     },
     "data": {
+        "quiz": {
+            "wrong_answers": {
+                "location" : [
+                    "Head", "Left shoulder", "Knees", "Behind ears", "Buttocks", "Shoulder blades", "Lower rib area", "Clavicle", "Ball of the foot", "Hips", "Neck area"
+                ],
+                "color" : ["Black", "Grey", "Light blue", "Pink", "Golden", "Purple", "White" ],
+                "syllable" : ["Om (trinity)", "Om (space)", "Hari (god)", "Sri (energy)", "Jaya (glory)", "Aham (self)", "Yukta (union)", "Shivam (no-thing)", "Vriksha (tree)"]
+            }
+        },
         "chakras": [
             {
                 "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Sahasrara_Mandala.svg",
@@ -18,7 +27,7 @@
                 "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ajna_Mandala.svg",
                 "name": "Ajna or Agya",
                 "sanskritTranslation": "आज्ञा  \"Command\"",
-                "location": "Betweeneyebrows",
+                "location": "Between eyebrows",
                 "petals": 2,
                 "color": "Indigo",
                 "syllable": "—",
@@ -58,7 +67,7 @@
                 "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Swadhisthana_Mandala.svg",
                 "name": "Svadhishthana",
                 "sanskritTranslation": "स्वाधिष्ठान  \"Where the selfis established\"",
-                "location": "Root ofsexual organs",
+                "location": "Root of sexual organs",
                 "petals": 6,
                 "color": "Orange",
                 "syllable": "Vam (water)",
@@ -68,7 +77,7 @@
                 "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Muladhara_Mandala.svg",
                 "name": "Muladhara",
                 "sanskritTranslation": "मूलाधार  \"Root\"",
-                "location": "Base ofspine",
+                "location": "Base of spine",
                 "petals": 4,
                 "color": "Red",
                 "syllable": "Lam (earth)",
